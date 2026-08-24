@@ -1,6 +1,6 @@
-
-[README.md](https://github.com/user-attachments/files/31387696/README.md)
+[README.md](https://github.com/user-attachments/files/31387753/README.md)
 <div align="center">
+
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Мирон%20Велков&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Кибербезопасность%20×%20Промышленная%20робототехника&descSize=18&descAlignY=62)
 
