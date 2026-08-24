@@ -1,60 +1,112 @@
-[README.md](https://github.com/user-attachments/files/31387802/README.md)
-[README.md](https://github.com/user-attachments/files/31387924/README.md)
-<img width="1484" height="1060" alt="htb-cbbh" src="https://github.com/user-attachments/assets/76a02458-70c9-40fa-b01b-949db3b46375" />
-
-![Uploading htb-cpts.png…]()[README.md](https://github.com/user-attachments/files/31387963/README.md)
+[README.md](https://github.com/user-attachments/files/31389103/README.md)
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=6,11,20&text=Мирон%20Велков&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Кибербезопасность%20×%20Промышленная%20робототехника&descSize=18&descAlignY=62)
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1f2933,50:323f4b,100:3e4c59&text=Мирон%20Велков&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Автоматизация%20производств%20×%20Кибербезопасность&descSize=17&descColor=9fb3c8&descAlignY=62)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=58CC02&center=true&vCenter=true&width=600&lines=HTB+CPTS+%7C+HTB+CBBH+%7C+CTF+player;Считаю+экономику+роботизации+производств;Ломаю+в+лабах+—+строю+в+цехах)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=680&lines=Ищу%2C+где+заводу+больно+—+и+считаю%2C+когда+робот+окупится;Кейсы+вместо+мнений%2C+замеры+вместо+оценок;Автоматизирую+как+инженер+—+проверяю+как+хакер)](https://git.io/typing-svg)
+
+<br>
+
+> **Помогаю производствам понять, что автоматизировать и когда это окупится.**
+> Три года наступательной кибербезопасности дают редкий угол зрения:
+> я сразу вижу, где робот и АСУ ТП станут дырой в защите завода.
 
 </div>
 
-## 👋 Обо мне
+<br>
 
-Занимаюсь двумя вещами, которые скоро встретятся: **наступательной кибербезопасностью** (3 года практики) и **промышленной робототехникой**. Верю, что через пять лет самой горячей темой станет безопасность роботизированных производств — и готовлюсь оказаться там первым.
+![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:9fb3c8,100:3e4c59)
 
-- 🔐 **Пентест и bug bounty** — сертификации Hack The Box: [CPTS](https://www.hackthebox.com/) (2024) и [CBBH](https://www.hackthebox.com/) (2025), играю CTF в составе команды **syrcion_com**
-- 🦾 **Промышленная робототехника** — призёр регионального этапа чемпионата «Профессионалы-2024» (2 место, компетенция «Промышленная робототехника»)
-- 📊 Сейчас строю [robot-economics](https://github.com/YOUR_NICK/robot-economics): калькулятор окупаемости роботов, база проверенных кейсов внедрений и карта дефицита рабочих кадров по регионам РФ через открытые API
-- 🎯 Цель на год: участие в реальном аудите роботизации производства
+## 🧭 Чем занимаюсь
 
-## 🏆 Сертификации и награды
+| Направление | Чем подкреплено |
+|:---|:---|
+| 🦾 **Промышленная робототехника** | 🥈 2 место регионального этапа «Профессионалы-2024», компетенция «Промышленная робототехника» |
+| 📊 **Аудит и экономика роботизации** | [robot-economics](https://github.com/VelkovMironAlexandrovich/robot-economics) — калькулятор окупаемости · база проверенных кейсов · карта дефицита кадров по регионам РФ через открытые API |
+| 🔐 **Кибербезопасность (доп. слой)** | HTB **CPTS** (2024) · HTB **CBBH** (2025) · CTF в команде **syrcion_com** |
+| 🎯 **Цель на год** | участие в реальном аудите роботизации производства |
 
-| | |
-|:---:|:---:|
-| ![HTB CPTS](assets/htb-cpts.png) | ![HTB CBBH](assets/htb-cbbh.png) |
-| **HTB Certified Penetration Testing Specialist** · 2024 | **HTB Certified Bug Bounty Hunter** · 2025 |
-| ![Профессионалы-2024](assets/professionals-2024.png) | ![VKACTF 2026](assets/vkactf-2026.png) |
-| **«Профессионалы-2024» · 2 место · Промышленная робототехника** | **VKACTF 2026 · команда syrcion_com** |
+<br>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:9fb3c8,100:3e4c59)
 
 ## 🛠 Стек
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=py,bash,linux,arduino,git,github&theme=dark)](https://skillicons.dev)
+
+**а ещё:** Pandas · Matplotlib · Burp Suite · Nmap · Obsidian
+
+</div>
+
+<br>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:9fb3c8,100:3e4c59)
+
+## 🏆 Сертификации и награды
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img width="420" alt="professionals-2024" src="https://github.com/user-attachments/assets/a0f3bac2-5671-4ea1-8595-824dc1c98aae" /><br><br>
+      <b>«Профессионалы-2024»</b><br>
+      <sub>🥈 2 место · Промышленная робототехника · региональный этап</sub>
+    </td>
+    <td align="center" width="50%">
+      <img width="420" alt="htb-cpts" src="https://github.com/user-attachments/assets/ba5a5865-7bbb-4a49-9cb1-1e217b6edd12" /><br><br>
+      <b>HTB Certified Penetration Testing Specialist</b><br>
+      <sub>Hack The Box · 2024</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img width="420" alt="htb-cbbh" src="https://github.com/user-attachments/assets/a2305205-1387-4a03-b436-bd96f19b3cc9" /><br><br>
+      <b>HTB Certified Bug Bounty Hunter</b><br>
+      <sub>Hack The Box · 2025</sub>
+    </td>
+    <td align="center" width="50%">
+      <img width="420" alt="vkactf-2026" src="https://github.com/user-attachments/assets/ad0607d8-51bd-4f92-8090-78b2ddeea18c" /><br><br>
+      <b>VKACTF 2026</b><br>
+      <sub>команда syrcion_com</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+![divider](https://capsule-render.vercel.app/api?type=rect&height=2&color=0:9fb3c8,100:3e4c59)
 
 ## 📈 Статистика
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_NICK&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
-![Streak](https://streak-stats.demolab.com?user=YOUR_NICK&theme=tokyonight&hide_border=true&locale=ru)
+<img src="https://github-readme-stats.vercel.app/api?username=VelkovMironAlexandrovich&show_icons=true&theme=github_dark&hide_border=true&locale=ru&bg_color=00000000" height="165" alt="Статистика">
+<img src="https://streak-stats.demolab.com?user=VelkovMironAlexandrovich&theme=github-dark-blue&hide_border=true&locale=ru&background=00000000" height="165" alt="Серия">
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VelkovMironAlexandrovich/VelkovMironAlexandrovich/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/VelkovMironAlexandrovich/VelkovMironAlexandrovich/output/github-snake.svg" alt="Змейка ест коммиты" width="92%">
+</picture>
 
 </div>
 
-## 📫 Связь
+<br>
 
-Открыт к разговорам про роботизацию производств, экономику внедрений и безопасность промышленных систем.
+## 📫 Связь
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer)
+Открыт к разговорам про автоматизацию производств, экономику внедрений<br>и безопасность промышленных систем.
+
+<br>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1f2933,50:323f4b,100:3e4c59&section=footer)
 
 </div>
