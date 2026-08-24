@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/31389103/README.md)
+[README.md](https://github.com/user-attachments/files/31389496/README.md)
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=240&color=0:1f2933,50:323f4b,100:3e4c59&text=Мирон%20Велков&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Автоматизация%20производств%20×%20Кибербезопасность&descSize=17&descColor=9fb3c8&descAlignY=62)
@@ -85,8 +85,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=VelkovMironAlexandrovich&show_icons=true&theme=github_dark&hide_border=true&locale=ru&bg_color=00000000" height="165" alt="Статистика">
 <img src="https://streak-stats.demolab.com?user=VelkovMironAlexandrovich&theme=github-dark-blue&hide_border=true&locale=ru&background=00000000" height="165" alt="Серия">
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/58a6ff/VelkovMironAlexandrovich" width="92%" alt="Календарь коммитов">
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VelkovMironAlexandrovich&theme=github-compact&hide_border=true&bg_color=00000000&color=9fb3c8&line=58a6ff&point=3e4c59&area=true&area_color=58a6ff" width="92%" alt="График активности">
 
 <br><br>
 
